@@ -1,0 +1,68 @@
+store_id,day_of_week,open_time,close_time
+S01,Monday,7:00 AM,11:00 PM
+S01,Tuesday,7:00 AM,11:00 PM
+S01,Wednesday,07:00,23:00
+S01,Thursday,07:00,23:00
+S01,Friday,07:00,23:00
+S01,Saturday,06:30,23:30
+S01,Sunday,6:30 AM,11:30 PM
+S02,Monday,07:00,23:00
+S02,Tuesday,07:00,23:00
+S02,Wednesday,07:00,23:00
+S02,Thursday,07:00,23:00
+S02,Friday,7:00 AM,11:00 PM
+S02,Saturday,6:30 AM,11:30 PM
+S02,Sunday,06:30,23:30
+S03,Monday,07:00,23:00
+S03,Tuesday,07:00,23:00
+S03,Wednesday,7:00 AM,11:00 PM
+S03,Thursday,7:00 AM,11:00 PM
+S03,Friday,7:00 AM,11:00 PM
+S03,Saturday,06:30,23:30
+S03,Sunday,06:30,23:30
+S04,Monday,07:00,23:00
+S04,Tuesday,7:00 AM,11:00 PM
+S04,Wednesday,07:00,23:00
+S04,Thursday,7:00 AM,11:00 PM
+S04,Friday,07:00,23:00
+S04,Saturday,6:30 AM,11:30 PM
+S04,Sunday,06:30,23:30
+S05,Monday,7:00 AM,11:00 PM
+S05,Thursday,07:00,23:00
+S05,Friday,7:00 AM,11:00 PM
+S05,Saturday,06:30,23:30
+S05,Sunday,06:30,23:30
+S06,Monday,07:00,23:00
+S06,Tuesday,07:00,23:00
+S06,Wednesday,07:00,23:00
+S06,Thursday,7:00 AM,11:00 PM
+S06,Friday,7:00 AM,11:00 PM
+S06,Saturday,06:30,23:30
+S06,Sunday,06:30,23:30
+S07,Monday,07:00,23:00
+S07,Tuesday,07:00,23:00
+S07,Wednesday,07:00,23:00
+S07,Thursday,07:00,23:00
+S07,Friday,07:00,23:00
+S07,Saturday,06:30,23:30
+S07,Sunday,6:30 AM,11:30 PM
+S08,Monday,7:00 AM,11:00 PM
+S08,Tuesday,07:00,23:00
+S08,Wednesday,07:00,23:00
+S08,Thursday,07:00,23:00
+S08,Friday,7:00 AM,11:00 PM
+S08,Saturday,06:30,23:30
+S08,Sunday,06:30,23:30
+S09,Monday,07:00,23:00
+S09,Tuesday,7:00 AM,11:00 PM
+S09,Wednesday,07:00,23:00
+S09,Thursday,07:00,23:00
+S09,Friday,07:00,23:00
+S09,Saturday,6:30 AM,11:30 PM
+S09,Sunday,06:30,23:30
+S10,Monday,7:00 AM,11:00 PM
+S10,Tuesday,07:00,23:00
+S10,Wednesday,07:00,23:00
+S10,Thursday,07:00,23:00
+S10,Friday,07:00,23:00
+S10,Saturday,06:30,23:30

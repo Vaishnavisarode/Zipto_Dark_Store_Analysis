@@ -1,0 +1,16 @@
+dataset,issue,original_rows,action_taken,final_rows,reason,impact_on_analysis
+dark_stores_messy.csv,Duplicate store rows,12,Removed exact duplicate rows,10,One record per store is required,Prevents duplicate store P&L and store-level counts
+dark_stores_messy.csv,Mixed rent formats,10,Removed Rs./INR labels and commas; converted to numeric,10,Rent is needed for P&L,Makes rent arithmetic consistent
+dark_stores_messy.csv,Mixed date/city formats,10,Parsed opened_date and standardized city text,10,Enables consistent grouping/filtering,Prevents duplicate city/date representations
+delivery_partners_messy.csv,Mixed joined_date formats,124,Parsed joined_date; legitimate missing values retained,124,Date consistency without inventing missing dates,Supports partner analysis
+order_items_messy.csv,Exact duplicate rows,177902,Removed exact duplicate rows,177038,Duplicate transactions would inflate item economics,Prevents overstated product quantities/costs
+order_items_messy.csv,Duplicate order_item_id after exact deduplication,177038,Kept one record per order_item_id after validating duplicate pairs,177017,order_item_id should identify one item record,Prevents remaining double counting
+order_items_messy.csv,Missing unit_cost,177017,Filled missing unit_cost from products master by SKU,177017,Product master provides the corresponding cost,Allows item-level cost/margin analysis
+orders_clean.csv,Missing promo_code,52133,Filled missing promo_code with NO_PROMO where discount was zero,52133,Missing promo indicates no applied promotion in the supplied data,Enables complete promo segmentation
+orders_clean.csv,Datetime standardization,52133,Parsed order_ts and delivered_ts,52133,Needed for delivery-time analysis,Makes time calculations consistent
+products_messy.csv,Validation,54,No duplicate rows or missing values requiring correction,54,Master data was already structurally usable,Used as reference for item-cost completion
+promo_codes_messy.csv,Date standardization,6,Parsed valid_from and valid_to,6,Enables promo validity analysis,Consistent date filtering
+store_hours_messy.csv,Validation,67,No cleaning change required,67,No problematic duplicates/missing values identified,Retained for operating-hours analysis
+trip_logs_messy.csv,Duplicate rows,52445,Removed exact duplicate rows,52133,Duplicate trips would inflate delivery activity,Restores one trip record per order/trip
+trip_logs_messy.csv,Negative distance values,52133,Converted distance_km to absolute values,52133,Negative distance is not physically meaningful and magnitudes were otherwise plausible,Makes delivery-distance metrics usable
+trip_logs_messy.csv,Missing delivered_ts,52133,Missing values retained for cancelled trips,52133,Cancelled trips do not require a delivery timestamp,Avoids inventing delivery times
