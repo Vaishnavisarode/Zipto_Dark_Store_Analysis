@@ -1,0 +1,3 @@
+store_id,cohort_orders,actual_returns,baseline_return_rate_pct,expected_returns_at_baseline,modeled_excess_returns,avg_cost_per_return,modeled_opportunity_42_days,modeled_opportunity_per_30_days
+S03,1812,304,3.8,68.9,235.1,448.47,105451.23,75322.31
+S07,2146,514,8.29,177.9,336.1,467.8,157233.07,112309.33
