@@ -1,0 +1,55 @@
+sku,product_name,category,is_perishable,shelf_life_days,mrp,unit_cost
+SKU0001,Banana Robusta 1kg,FRUITS & VEGETABLES,Yes,3,57.59,44.38
+SKU0002,Tomato Hybrid 500g,Fruits & Vegetables,1,3,120.36,93.01
+SKU0003,Onion 1kg,fruits & vegetables,TRUE,3,86.81,67.81
+SKU0004,Baby Spinach 250g,Fruits & Vegetables,Y,3,147.88,110.17
+SKU0005,Alphonso Mango 1kg,FRUITS & VEGETABLES,Yes,3,135.91,99.37
+SKU0006,Green Capsicum 500g,Fruits & Vegetables,1,3,75.22,58.35
+SKU0007,Coriander 100g,fruits & vegetables,TRUE,3,45.83,36.21
+SKU0008,Potato 2kg,Fruits & Vegetables,Y,3,106.48,77.29
+SKU0009,Cucumber 500g,FRUITS & VEGETABLES,Yes,3,143.67,116.96
+SKU0010,Lemon 250g,Fruits & Vegetables,1,3,149.71,114.79
+SKU0011,Full Cream Milk 1L,dairy & eggs,TRUE,7,69.25,55.39
+SKU0012,Toned Milk 500ml,Dairy & Eggs,Y,7,38.51,27.79
+SKU0013,Paneer 200g,DAIRY & EGGS,Yes,7,178.61,138.16
+SKU0014,Farm Eggs 6pc,Dairy & Eggs,1,7,102.69,79.19
+SKU0015,Curd 400g,dairy & eggs,TRUE,7,173.02,138.66
+SKU0016,Butter 100g,Dairy & Eggs,Y,7,160.06,174.47
+SKU0017,Cheese Slices 200g,DAIRY & EGGS,Yes,7,41.23,30.01
+SKU0018,Fresh Cream 250ml,Dairy & Eggs,1,7,139.43,108.61
+SKU0019,Chicken Curry Cut 500g,meat & seafood,TRUE,2,181.01,197.3
+SKU0020,Chicken Breast 450g,Meat & Seafood,Y,2,121.46,93.99
+SKU0021,Rohu Fish 500g,MEAT & SEAFOOD,Yes,2,116.21,91.93
+SKU0022,Prawns 250g,Meat & Seafood,1,2,107.84,87.36
+SKU0023,Mutton Curry Cut 500g,meat & seafood,TRUE,2,175.9,191.73
+SKU0024,Brown Bread 400g,Bakery,Y,4,53.29,38.6
+SKU0025,White Bread 350g,BAKERY,Yes,4,140.67,114.1
+SKU0026,Pav 6pc,Bakery,1,4,166.93,136.79
+SKU0027,Croissant 2pc,bakery,TRUE,4,93.23,72.81
+SKU0028,Whole Wheat Bun 4pc,Bakery,Y,4,44.09,48.06
+SKU0029,Cola 750ml,BEVERAGES,No,240,137.85,93.49
+SKU0030,Orange Juice 1L,Beverages,0,240,34.75,37.88
+SKU0031,Green Tea 25 bags,beverages,FALSE,240,156.86,95.79
+SKU0032,Cold Coffee 180ml,Beverages,N,240,164.55,102.68
+SKU0033,Energy Drink 250ml,BEVERAGES,No,240,92.98,64.24
+SKU0034,Mineral Water 1L,Beverages,0,240,46.71,32.48
+SKU0035,Lemon Iced Tea 400ml,beverages,FALSE,240,176.7,192.6
+SKU0036,Potato Chips 52g,Snacks & Packaged,N,300,120.01,69.48
+SKU0037,Instant Noodles 4pk,SNACKS & PACKAGED,No,300,109.27,60.88
+SKU0038,Digestive Biscuits 250g,Snacks & Packaged,0,300,173.48,101.59
+SKU0039,Roasted Almonds 200g,snacks & packaged,FALSE,300,64.45,43.54
+SKU0040,Namkeen Mix 400g,Snacks & Packaged,N,300,170.16,105.2
+SKU0041,Dark Chocolate 80g,SNACKS & PACKAGED,No,300,85.66,52.5
+SKU0042,Popcorn 100g,Snacks & Packaged,0,300,94.09,64.7
+SKU0043,Dishwash Gel 750ml,household,FALSE,540,88.56,53.96
+SKU0044,Floor Cleaner 1L,Household,N,540,54.35,36.27
+SKU0045,Garbage Bags 30pc,HOUSEHOLD,No,540,136.3,81.29
+SKU0046,Detergent Powder 1kg,Household,0,540,57.3,39.29
+SKU0047,Toilet Cleaner 500ml,household,FALSE,540,62.93,37.04
+SKU0048,Room Freshener 220ml,Household,N,540,126.69,76.93
+SKU0049,Shampoo 340ml,PERSONAL CARE,No,480,81.91,49.48
+SKU0050,Toothpaste 150g,Personal Care,0,480,155.11,105.48
+SKU0051,Handwash 200ml,personal care,FALSE,480,65.94,42.47
+SKU0052,Face Wash 100ml,Personal Care,N,480,34.8,21.81
+SKU0053,Deodorant 150ml,PERSONAL CARE,No,480,162.83,108.35
+SKU0054,Shaving Gel 60g,Personal Care,0,480,133.61,82.64

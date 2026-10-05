@@ -1,0 +1,125 @@
+partner_id,partner_name,joined_date,vehicle_type,home_store_id,employment_type,rating
+P0001,Partner 0001,07-05-2025,Petrol Scooter,S01,Full-time,4.6 stars
+P0002,Partner 0002,20-08-2025,EV Scooter,S01,Full-time,4.6
+P0003,Partner 0003,17-03-2026,Petrol Scooter,S01,Gig,3.7
+P0004,Partner 0004,23-03-2026,Bicycle,S01,Gig,4.3 stars
+P0005,Partner 0005,21-07-2025,EV Scooter,S01,Full-time,4.8
+P0006,Partner 0006,,Petrol Scooter,S01,Gig,4.2
+P0007,Partner 0007,,Bicycle,S01,Gig,3.5 stars
+P0008,Partner 0008,29-01-2026,Bicycle,S01,Full-time,4.6
+P0009,Partner 0009,,Petrol Scooter,S01,Gig,4.4
+P0010,Partner 0010,07-12-2025,EV Scooter,S01,Full-time,3.5 stars
+P0011,Partner 0011,23-12-2025,EV Scooter,S01,Full-time,3.9
+P0012,Partner 0012,20-05-2025,EV Scooter,S02,Full-time,3.4
+P0013,Partner 0013,11-11-2025,EV Scooter,S02,Gig,3.9 stars
+P0014,Partner 0014,12-09-2025,EV Scooter,S02,Full-time,4.3
+P0015,Partner 0015,25-11-2025,EV Scooter,S02,Gig,3.7
+P0016,Partner 0016,08-02-2026,Bicycle,S02,Gig,3.9 stars
+P0017,Partner 0017,31-03-2026,EV Scooter,S02,Gig,4.6
+P0018,Partner 0018,,EV Scooter,S02,Full-time,4.3
+P0019,Partner 0019,03-08-2025,Bicycle,S02,Gig,4.8 stars
+P0020,Partner 0020,17-02-2026,Petrol Scooter,S02,Full-time,4.6
+P0021,Partner 0021,30-07-2025,Bicycle,S02,Full-time,4.8
+P0022,Partner 0022,28-11-2025,EV Scooter,S02,Gig,3.9 stars
+P0023,Partner 0023,14-07-2025,EV Scooter,S03,Gig,3.9
+P0024,Partner 0024,,EV Scooter,S03,Gig,4.5
+P0025,Partner 0025,22-05-2025,Petrol Scooter,S03,Gig,4.8 stars
+P0026,Partner 0026,,Petrol Scooter,S03,Full-time,3.5
+P0027,Partner 0027,07-01-2026,Bicycle,S03,Full-time,3.4
+P0028,Partner 0028,19-11-2025,Bicycle,S03,Gig,4.0 stars
+P0029,Partner 0029,04-09-2025,Bicycle,S03,Gig,4
+P0030,Partner 0030,27-03-2026,EV Scooter,S03,Gig,4.6
+P0031,Partner 0031,19-03-2026,Bicycle,S03,Full-time,3.4 stars
+P0032,Partner 0032,06-05-2025,EV Scooter,S03,Full-time,4
+P0033,Partner 0033,17-01-2026,EV Scooter,S03,Full-time,4.1
+P0034,Partner 0034,30-01-2026,EV Scooter,S03,Gig,3.9 stars
+P0035,Partner 0035,06-04-2026,Petrol Scooter,S04,Gig,3.9
+P0036,Partner 0036,,Petrol Scooter,S04,Full-time,4.8
+P0037,Partner 0037,10-02-2026,Petrol Scooter,S04,Gig,4.8 stars
+P0038,Partner 0038,14-06-2025,Bicycle,S04,Gig,4.1
+P0039,Partner 0039,06-08-2025,EV Scooter,S04,Gig,4.3
+P0040,Partner 0040,29-06-2025,EV Scooter,S04,Gig,3.7 stars
+P0041,Partner 0041,08-04-2026,EV Scooter,S04,Gig,3.4
+P0042,Partner 0042,26-07-2025,Petrol Scooter,S04,Gig,4.8
+P0043,Partner 0043,,Petrol Scooter,S04,Gig,4.5 stars
+P0044,Partner 0044,13-02-2026,Bicycle,S04,Gig,4
+P0045,Partner 0045,20-01-2026,Bicycle,S04,Full-time,4.2
+P0046,Partner 0046,23-03-2026,EV Scooter,S05,Gig,4.8 stars
+P0047,Partner 0047,24-05-2025,Bicycle,S05,Gig,4.6
+P0048,Partner 0048,13-08-2025,Bicycle,S05,Full-time,4.1
+P0049,Partner 0049,19-05-2025,Bicycle,S05,Gig,3.8 stars
+P0050,Partner 0050,07-05-2025,Bicycle,S05,Gig,3.8
+P0051,Partner 0051,12-08-2025,EV Scooter,S05,Gig,3.5
+P0052,Partner 0052,10-04-2026,Bicycle,S05,Gig,4.0 stars
+P0053,Partner 0053,24-01-2026,EV Scooter,S05,Full-time,4.8
+P0054,Partner 0054,14-04-2026,Bicycle,S05,Gig,3.4
+P0055,Partner 0055,05-08-2025,Bicycle,S05,Gig,4.3 stars
+P0056,Partner 0056,11-02-2026,EV Scooter,S05,Gig,4
+P0057,Partner 0057,10-08-2025,EV Scooter,S05,Gig,4.5
+P0058,Partner 0058,06-11-2025,EV Scooter,S05,Gig,3.9 stars
+P0059,Partner 0059,12-09-2025,EV Scooter,S06,Gig,3.9
+P0060,Partner 0060,09-05-2025,Petrol Scooter,S06,Gig,4.8
+P0061,Partner 0061,25-04-2025,EV Scooter,S06,Full-time,4.1 stars
+P0062,Partner 0062,20-04-2026,EV Scooter,S06,Full-time,3.6
+P0063,Partner 0063,28-07-2025,Petrol Scooter,S06,Gig,3.5
+P0064,Partner 0064,27-08-2025,EV Scooter,S06,Gig,4.2 stars
+P0065,Partner 0065,16-12-2025,Bicycle,S06,Gig,3.4
+P0066,Partner 0066,09-12-2025,EV Scooter,S06,Gig,4.5
+P0067,Partner 0067,15-03-2026,EV Scooter,S06,Gig,4.4 stars
+P0068,Partner 0068,27-02-2026,EV Scooter,S06,Full-time,3.9
+P0069,Partner 0069,04-08-2025,Bicycle,S06,Full-time,3.5
+P0070,Partner 0070,04-02-2026,EV Scooter,S06,Gig,3.9 stars
+P0071,Partner 0071,29-06-2025,Petrol Scooter,S06,Gig,3.6
+P0072,Partner 0072,18-02-2026,Bicycle,S07,Gig,3.9
+P0073,Partner 0073,21-03-2026,Petrol Scooter,S07,Gig,4.9 stars
+P0074,Partner 0074,31-07-2025,EV Scooter,S07,Gig,4.5
+P0075,Partner 0075,14-08-2025,EV Scooter,S07,Gig,4.1
+P0076,Partner 0076,,Petrol Scooter,S07,Gig,3.5 stars
+P0077,Partner 0077,,Bicycle,S07,Full-time,4.5
+P0078,Partner 0078,07-10-2025,Petrol Scooter,S07,Gig,4.8
+P0079,Partner 0079,06-08-2025,EV Scooter,S07,Gig,3.9 stars
+P0080,Partner 0080,07-07-2025,Bicycle,S07,Gig,4.1
+P0081,Partner 0081,30-01-2026,Bicycle,S07,Gig,4.8
+P0082,Partner 0082,18-07-2025,Petrol Scooter,S07,Full-time,4.2 stars
+P0083,Partner 0083,27-12-2025,EV Scooter,S07,Full-time,3.4
+P0084,Partner 0084,25-06-2025,EV Scooter,S07,Gig,3.6
+P0085,Partner 0085,18-05-2025,EV Scooter,S08,Full-time,4.6 stars
+P0086,Partner 0086,10-04-2026,EV Scooter,S08,Gig,4.5
+P0087,Partner 0087,25-01-2026,Bicycle,S08,Gig,4.2
+P0088,Partner 0088,02-07-2025,EV Scooter,S08,Gig,4.5 stars
+P0089,Partner 0089,12-01-2026,Bicycle,S08,Full-time,4.2
+P0090,Partner 0090,11-12-2025,EV Scooter,S08,Gig,3.5
+P0091,Partner 0091,13-04-2026,Bicycle,S08,Gig,4.5 stars
+P0092,Partner 0092,21-07-2025,EV Scooter,S08,Gig,4.2
+P0093,Partner 0093,12-04-2026,EV Scooter,S08,Gig,4.4
+P0094,Partner 0094,29-10-2025,Petrol Scooter,S08,Full-time,3.9 stars
+P0095,Partner 0095,28-09-2025,Bicycle,S08,Gig,4.3
+P0096,Partner 0096,25-08-2025,EV Scooter,S08,Gig,4.5
+P0097,Partner 0097,29-06-2025,Bicycle,S08,Gig,4.2 stars
+P0098,Partner 0098,08-04-2026,EV Scooter,S09,Gig,4.2
+P0099,Partner 0099,23-06-2025,Petrol Scooter,S09,Gig,4.7
+P0100,Partner 0100,07-05-2025,EV Scooter,S09,Full-time,3.5 stars
+P0101,Partner 0101,29-05-2025,EV Scooter,S09,Gig,4.3
+P0102,Partner 0102,28-10-2025,Bicycle,S09,Gig,4
+P0103,Partner 0103,04-07-2025,Petrol Scooter,S09,Gig,4.0 stars
+P0104,Partner 0104,,EV Scooter,S09,Gig,4.4
+P0105,Partner 0105,06-02-2026,Petrol Scooter,S09,Full-time,4.4
+P0106,Partner 0106,06-06-2025,Bicycle,S09,Full-time,4.9 stars
+P0107,Partner 0107,17-03-2026,EV Scooter,S09,Full-time,3.8
+P0108,Partner 0108,08-04-2026,EV Scooter,S09,Gig,3.5
+P0109,Partner 0109,19-10-2025,EV Scooter,S09,Gig,4.4 stars
+P0110,Partner 0110,03-04-2026,EV Scooter,S09,Full-time,3.5
+P0111,Partner 0111,13-03-2026,Bicycle,S09,Gig,3.9
+P0112,Partner 0112,08-04-2026,Bicycle,S09,Gig,4.8 stars
+P0113,Partner 0113,,Petrol Scooter,S10,Full-time,4.4
+P0114,Partner 0114,01-02-2026,EV Scooter,S10,Gig,4.2
+P0115,Partner 0115,22-03-2026,Bicycle,S10,Gig,3.7 stars
+P0116,Partner 0116,24-07-2025,EV Scooter,S10,Gig,3.8
+P0117,Partner 0117,28-01-2026,EV Scooter,S10,Gig,4.8
+P0118,Partner 0118,13-04-2026,Petrol Scooter,S10,Gig,3.4 stars
+P0119,Partner 0119,29-01-2026,Petrol Scooter,S10,Gig,4.2
+P0120,Partner 0120,31-01-2026,Bicycle,S10,Gig,4.3
+P0121,Partner 0121,16-01-2026,Bicycle,S10,Gig,4.5 stars
+P0122,Partner 0122,28-05-2025,Petrol Scooter,S10,Gig,3.8
+P0123,Partner 0123,29-09-2025,Bicycle,S10,Full-time,3.5
+P1023,Partner 0023,14-07-2025,Petrol Scooter,S03,Gig,3.9
